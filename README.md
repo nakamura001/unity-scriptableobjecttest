@@ -1,0 +1,2 @@
+# unity-scriptableobjecttest
+ScriptableObjectでClassとStructを作った場合のそれぞれの速度検証
